@@ -17,11 +17,11 @@ This project is an assignment for Integrify Academy to practice all the subjects
 
 ## Workflow:
 
-![Alt text](fs16_6-frontend-project\workflow_e-comercio-1.png)
+![Alt text](/fs16_6-frontend-project/workflow_e-comercio-1.png)
 
 ## Application features:
 
-![Alt text](fs16_6-frontend-project\app_features.png)
+![Alt text](/fs16_6-frontend-project/app_features.png)
 ## Requirements
 
 ✅ Create at least 4 pages (can be more if you want): Page for
