@@ -1,0 +1,21 @@
+// @use './variables/colors';
+// @use './variables/fonts';
+
+// @import './components/header.scss';
+@import './components/home.scss';
+@import './components/cart.scss';
+// @import './components/footer.scss';
+@import './components/profile.scss';
+
+// body {
+//   margin: 0;
+//   padding: 0;
+//   display: flex;
+//   flex-direction: column;
+//   min-height: 100vh;
+// }
+
+// html {
+//   min-height: 100%;
+//   position: relative;
+// }
